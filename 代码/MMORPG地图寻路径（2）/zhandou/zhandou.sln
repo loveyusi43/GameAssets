@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zhandou", "zhandou\zhandou.vcxproj", "{0CC6ADB9-0A98-46F0-A8F7-E8BD64B6FD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CC6ADB9-0A98-46F0-A8F7-E8BD64B6FD06}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0CC6ADB9-0A98-46F0-A8F7-E8BD64B6FD06}.Debug|Win32.Build.0 = Debug|Win32
+		{0CC6ADB9-0A98-46F0-A8F7-E8BD64B6FD06}.Release|Win32.ActiveCfg = Release|Win32
+		{0CC6ADB9-0A98-46F0-A8F7-E8BD64B6FD06}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
